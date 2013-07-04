@@ -1,0 +1,11 @@
+*-dist
+*.bak
+*~
+*.swp
+/.git
+/vendor
+/composer*
+/build.xml
+/src/wordpress/wp-content/uploads
+/src/wordpress/wp-content/upgrade
+/etc
